@@ -1,4 +1,4 @@
-// Exercício ---- leer nome e mostrar mensagem de boas vindas ----
+// ==== leer nome e mostrar mensagem de boas vindas ====
 
 const readline = require('readline');
 
