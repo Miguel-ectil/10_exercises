@@ -1,4 +1,4 @@
-// Exercício ---- Olá, Mundo! ----
+// ==== Olá, Mundo! ====
 
 let messege = "Olá, Mundo!"
 console.log(messege)
