@@ -1,4 +1,4 @@
-// Exercício ---- Salario funcionario ----
+// ==== Salario funcionario ====
 
 let nome = "Maria do Carmo"
 let salario = 1850.45
