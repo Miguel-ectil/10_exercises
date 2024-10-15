@@ -1,4 +1,4 @@
-// Exercício ---- Mostrando soma ----
+// Exercício ==== Mostrando soma dos valores ====
 
 
 let num1 = 8
