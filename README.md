@@ -4,3 +4,4 @@ This repository will contain 100 JavaScript exercises for learning and practice.
 
 ## Table of Contents
 1. [Basic Sequences](basics_sequences/)
+2. [Basic Conditions](basics_conditions/)
