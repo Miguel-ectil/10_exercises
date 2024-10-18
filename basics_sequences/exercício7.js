@@ -1,4 +1,4 @@
-// ==== calcular valor ==== 
+// ==== Calcular valor ==== 
 
 console.log("Digite um valor real: ");
 let valor = 3.5
