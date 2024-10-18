@@ -1,3 +1,5 @@
+// ==== calcular valor ==== 
+
 console.log("Digite um valor real: ");
 let valor = 3.5
 const dobro = valor * 2
